@@ -27,3 +27,13 @@
 ---
 ### Dia 2
 ---
+
+- É possível adicionar JSX utilizando apenas um script
+  - [Referência](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html)
+- O babel transforma JSX em JavaScript puro
+- Toolchains recomendadas: Create React App, Next.js, Gatsby
+- 
+
+##### Dúvidas:
+- Como funciona uma CDN
+- O que é borda de rede
