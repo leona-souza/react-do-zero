@@ -1,4 +1,5 @@
-# Semana 1
+# Semana 1 
+(23 à 27/ago)
 
 ---
 ### Dia 1
@@ -32,7 +33,6 @@
   - [Referência](https://raw.githubusercontent.com/reactjs/reactjs.org/master/static/html/single-file-example.html)
 - O babel transforma JSX em JavaScript puro
 - Toolchains recomendadas: Create React App, Next.js, Gatsby
-- 
 
 ##### Dúvidas:
 - Como funciona uma CDN
