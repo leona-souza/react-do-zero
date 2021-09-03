@@ -21,4 +21,11 @@
 ### Dia 4
 ---
 
-- 
+- Ao usar map para iterar um array, não é recomendável usar o índice do array como chave única
+- Inputs tipo text, textarea e select podem ser manipulados através de this.state.value
+- Tomar cuidado com componentes controlados em formulários (definir state inicial)
+
+
+##### Sugestões de leitura:
+- [index as key](https://robinpokorny.medium.com/index-as-a-key-is-an-anti-pattern-e0349aece318)
+ 
